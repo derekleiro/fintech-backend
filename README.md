@@ -1,2 +1,2 @@
 # backend
-The back end of random-ly
+The back end of fintech-backend
